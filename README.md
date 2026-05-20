@@ -3,6 +3,13 @@
 Sistema automatico per il monitoraggio e controllo di una serra, con allarmi locali, notifiche remote via Telegram e integrazione meteo.
 
 ---
+## UI 
+
+<img width="439" height="285" alt="arduino github" src="https://github.com/user-attachments/assets/91da9f8e-4302-4d5e-b3c1-4ec584f56496" />
+
+
+
+---
 
 ## File disponibili
 
