@@ -106,6 +106,6 @@ pip install requests pyserial
 ## Autori
 
 - Civettini Damiano
-- Salagor Adrian
+- Salagor Andrian
 
 Anno Accademico 2025/2026
